@@ -14,22 +14,26 @@ The dictionary total number of words is: 263533
 Number of words of the right length is:  259709
 
   60 seconds remaining
-|       |      |
-|-------|:-----|
-|a c r l|
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l | 
+| n e a p | 
+| p u i m | 
+| s a a n |
+
    Score: 0
 1. Enter a word: plain
    Worth 4 points.
 Words so far are: plain 
 
   53 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+| Board   |
+| --------|
+| a c r l |
+| n e a p |
+| p u i m |
+| s a a n |
    Score: 4
 2. Enter a word: can
    Worth 1 points.
