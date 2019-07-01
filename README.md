@@ -23,6 +23,7 @@ Number of words of the right length is:  259709
 | s a a n |
 
    Score: 0
+   
 1. Enter a word: plain
    Worth 4 points.
 Words so far are: plain 
@@ -37,6 +38,7 @@ Words so far are: plain
 | s a a n |
 
    Score: 4
+   
 2. Enter a word: can
    Worth 1 points.
 Words so far are: can plain 
@@ -51,6 +53,7 @@ Words so far are: can plain
 | s a a n |
 
    Score: 5
+   
 3. Enter a word: map
    Worth 1 points.
 Words so far are: can map plain 
@@ -65,6 +68,7 @@ Words so far are: can map plain
 | s a a n |
 
    Score: 6
+   
 4. Enter a word: can
 Sorry, that word was already previously found. 
 Words so far are: can map plain 
@@ -79,6 +83,7 @@ Words so far are: can map plain
 | s a a n |
 
    Score: 6
+   
 4. Enter a word: acrl
  was not found in the dictionary.
 
@@ -92,6 +97,7 @@ Words so far are: can map plain
 | s a a n |
 
    Score: 6
+   
 4. Enter a word: rail
  cannot be formed on this board.
 
@@ -105,6 +111,7 @@ Words so far are: can map plain
 | s a a n |
 
    Score: 6
+   
 4. Enter a word: r
 Enter 16 characters to be used to set the board: abcdefghijklmnop
 
@@ -118,6 +125,7 @@ Enter 16 characters to be used to set the board: abcdefghijklmnop
 | m n o p |
 
    Score: 6
+   
 4. Enter a word: s
 Enter min and max word lengths to display: 4 7
 
