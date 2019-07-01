@@ -28,72 +28,99 @@ Number of words of the right length is:  259709
 Words so far are: plain 
 
   53 seconds remaining
+  
 | Board   |
 | --------|
 | a c r l |
 | n e a p |
 | p u i m |
 | s a a n |
+
    Score: 4
 2. Enter a word: can
    Worth 1 points.
 Words so far are: can plain 
 
   49 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l |
+| n e a p |
+| p u i m |
+| s a a n |
+
    Score: 5
 3. Enter a word: map
    Worth 1 points.
 Words so far are: can map plain 
 
   39 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l |
+| n e a p |
+| p u i m |
+| s a a n |
+
    Score: 6
 4. Enter a word: can
 Sorry, that word was already previously found. 
 Words so far are: can map plain 
 
   39 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l |
+| n e a p |
+| p u i m |
+| s a a n |
+
    Score: 6
 4. Enter a word: acrl
  was not found in the dictionary.
 
   34 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l | 
+| n e a p |
+| p u i m |
+| s a a n |
+
    Score: 6
 4. Enter a word: rail
  cannot be formed on this board.
 
   30 seconds remaining
-a c r l 
-n e a p 
-p u i m 
-s a a n 
+  
+| Board   |
+| --------|
+| a c r l |
+| n e a p |
+| p u i m |
+| s a a n |
+
    Score: 6
 4. Enter a word: r
 Enter 16 characters to be used to set the board: abcdefghijklmnop
 
   30 seconds remaining
-a b c d 
-e f g h 
-i j k l 
-m n o p 
+  
+| Board   |
+| --------|
+| a b c d |
+| e f g h |
+| i j k l |
+| m n o p |
+
    Score: 6
 4. Enter a word: s
 Enter min and max word lengths to display: 4 7
+
 Words between 4 and 7 are: 
 bein fink fino glop jink knop koji mink mino nief nife polk ponk knife plonk 
 Exiting the program. 
